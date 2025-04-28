@@ -6,5 +6,9 @@ use Illuminate\Http\Request;
 
 class UsaerController extends Controller
 {
-    public function user (){}
+    public function user (){
+
+waaell;
+
+    }
 }
