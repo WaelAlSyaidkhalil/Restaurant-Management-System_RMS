@@ -8,7 +8,5 @@ class UsaerController extends Controller
 {
     public function user (){
 
-waaell;
-
     }
 }
